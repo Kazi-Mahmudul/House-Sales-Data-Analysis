@@ -38,6 +38,25 @@ This project is an end-to-end exploratory data analysis (EDA) of the **House Sal
    - Explained the rationale behind each step taken.
    - Clearly documented findings from visual and statistical analyses.
 
+---
+## 🔍 Key Insights:
+
+- Most house prices fall between $200K–$600K, suggesting high demand in this range
+
+- 6000–8000 sqft area group had the highest average price, even higher than larger ones
+
+- Price increases almost linearly with the number of bedrooms
+
+- Interestingly, houses with 3 floors had a lower average price than those with 2.5 floors
+
+- Price trends fluctuated noticeably between Feb–May 2015
+
+- sqft_living and grade are strong price influencers; property age is negatively correlated
+
+- Grade also correlates positively with sqft_above and negatively with age/renovation year
+
+---
+
 ## 📁 Dataset
 
 - **Source:** [Kaggle - House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
